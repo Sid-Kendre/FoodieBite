@@ -27,14 +27,8 @@ The result is a user-centric Food Ordering App frontend that showcases not only 
 
 ## Screenshots
 
-![1](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/313d0788-e5d2-48e8-aa78-4fec78f31113)
-![2](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/03fb298b-2c78-41da-86a2-dd58e698970d)
-![3](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/73619ff5-b7c3-4ea7-b0d9-06ddd99f3cfa)
-![4](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/b3c49809-eac4-40c3-bb09-8603dff02abe)
-![6](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/9e571f03-40df-4e63-92e6-761e22c86cd4)
-![7](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/724cc0fc-658b-403b-97d6-c6632a4a8552)
-![8](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/5b0d277e-e56e-4a08-a298-ffec111454bd)
-
-
-Feel free to explore the app's codebase on GitHub and provide feedback!
-
+| ![1](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/313d0788-e5d2-48e8-aa78-4fec78f31113) | ![2](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/03fb298b-2c78-41da-86a2-dd58e698970d) |
+|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| ![3](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/73619ff5-b7c3-4ea7-b0d9-06ddd99f3cfa) | ![4](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/b3c49809-eac4-40c3-bb09-8603dff02abe) |
+| ![5](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/9e571f03-40df-4e63-92e6-761e22c86cd4) | ![6](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/724cc0fc-658b-403b-97d6-c6632a4a8552) |
+| ![7](https://github.com/Sid-Kendre/FoodieBite/assets/80148295/5b0d277e-e56e-4a08-a298-ffec111454bd) |
